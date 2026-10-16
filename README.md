@@ -31,7 +31,6 @@ src/
   server.js      arranque del servidor
 database/        schema.sql y seed.sql
 postman/         colección de pruebas
-evidencias/      capturas de las pruebas
 ```
 
 ## Modelo de datos
@@ -66,4 +65,4 @@ Validaciones en el esquema: `CHECK (total > 0)` y llave foránea `fk_pedido_clie
 La API completa automáticamente `cliente` y `email_cliente` desde la tabla `clientes`.
 
 ## Pruebas
-La colección de Postman está en `/postman` y las capturas de evidencia en `/evidencias`.
+La colección de Postman está en `/postman`.
