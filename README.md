@@ -11,7 +11,7 @@ Node.js, Express, MySQL/MariaDB (mysql2), dotenv, cors, Postman.
 
 ## Instalación
 1. Clonar el repositorio:
-   `git clone https://github.com/TU_USUARIO/Api-pedidos.git`
+   `git clone https://github.com/dalb77/Api-pedidos.git`
 2. Entrar a la carpeta e instalar dependencias:
    `npm install`
 3. Copiar `.env.example` a `.env` y completar los datos de conexión.
